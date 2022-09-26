@@ -1,0 +1,219 @@
+{
+    "global": {
+      "borderRadius": {
+        "sm": {
+          "value": "4",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "8",
+          "type": "borderRadius"
+        },
+        "xl": {
+          "value": "16",
+          "type": "borderRadius"
+        }
+      },
+      "borderWidth": {
+        "none": {
+          "value": "0",
+          "type": "borderWidth"
+        },
+        "xs": {
+          "value": "1",
+          "type": "borderWidth"
+        },
+        "sm": {
+          "value": "2",
+          "type": "borderWidth"
+        },
+        "md": {
+          "value": "4",
+          "type": "borderWidth"
+        },
+        "lg": {
+          "value": "8",
+          "type": "borderWidth"
+        }
+      },
+      "opacity": {
+        "low": {
+          "value": "10%",
+          "type": "opacity"
+        },
+        "md": {
+          "value": "50%",
+          "type": "opacity"
+        },
+        "high": {
+          "value": "90%",
+          "type": "opacity"
+        }
+      },
+      "lineHeights": {
+        "heading": {
+          "value": "110%",
+          "type": "lineHeights"
+        },
+        "body": {
+          "value": "140%",
+          "type": "lineHeights"
+        }
+      },
+      "letterSpacing": {
+        "default": {
+          "value": "0",
+          "type": "letterSpacing"
+        },
+        "increased": {
+          "value": "150%",
+          "type": "letterSpacing"
+        },
+        "decreased": {
+          "value": "-5%",
+          "type": "letterSpacing"
+        }
+      },
+      "paragraphSpacing": {
+        "h1": {
+          "value": "32",
+          "type": "paragraphSpacing"
+        },
+        "h2": {
+          "value": "26",
+          "type": "paragraphSpacing"
+        }
+      },
+      "fontWeights": {
+        "headingRegular": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "headingBold": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "bodyRegular": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "bodyBold": {
+          "value": "Bold",
+          "type": "fontWeights"
+        }
+      },
+    
+      "zn-white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "zn-primary": {
+        "value": "#5d13b7",
+        "type": "color"
+      },
+      "zn-danger": {
+        "value": "#c80e18",
+        "type": "color"
+      },
+      "zn-warning": {
+        "value": "#f6980a",
+        "type": "color"
+      },
+      "zn-success": {
+        "value": "#30bf25",
+        "type": "color"
+      },
+      "zn-gray": {
+        "value": "#403f3f",
+        "type": "color"
+      },
+      "zn-lightgray": {
+        "value": "#e6e6e6",
+        "type": "color"
+      },
+      "zn-border": {
+        "value": "#b1b1b1",
+        "type": "color"
+      },
+      "zn-border-focus": {
+        "value": "#e6d0ff",
+        "type": "color"
+      },
+      "zn-label-gray": {
+        "value": "#464646",
+        "type": "color"
+      },
+      "zn-dark-text": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "zn-badge": {
+        "value": "#f1f1fb",
+        "type": "color"
+      },
+      "zn-stage1": {
+        "value": "#ffe9e9",
+        "type": "color"
+      },
+      "zn-stage2": {
+        "value": "#ffe8c7",
+        "type": "color"
+      },
+      "zn-stage3": {
+        "value": "#e1f4cf",
+        "type": "color"
+      },
+      "zn-stage4": {
+        "value": "#d9f5eb",
+        "type": "color"
+      },
+      "zn-stag5": {
+        "value": "#e4efff",
+        "type": "color"
+      },
+      "zn-stage6": {
+        "value": "#e7e4ff",
+        "type": "color"
+      },
+      "zn-badge-hover": {
+        "value": "#e8e8ff",
+        "type": "color"
+      },
+      "zn-alert-info": {
+        "value": "#f1f6fd",
+        "type": "color"
+      },
+      "zn-alert-warning": {
+        "value": "#fffbed",
+        "type": "color"
+      },
+      "zn-alert-success": {
+        "value": "#eefff3",
+        "type": "color"
+      },
+      "zn-alert-danger": {
+        "value": "#fff6f8",
+        "type": "color"
+      },
+      "Primary": {
+        "value": "helveticaNeue",
+        "type": "fontFamilies"
+      },
+      "xxl": {
+        "value": "32",
+        "type": "borderRadius"
+      },
+      "none": {
+        "value": "0",
+        "type": "borderRadius"
+      }
+    },
+    "$themes": [],
+    "$metadata": {
+      "tokenSetOrder": [
+        "global",
+        "light",
+        "theme"
+      ]
+    }
+  }

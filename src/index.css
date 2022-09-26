@@ -1,0 +1,19 @@
+@font-face {
+  src: url('./assets/font/Helvetica-Neue-Font/HelveticaNeueMedium/HelveticaNeueMedium.otf');
+  font-weight: normal;
+  font-style: normal;
+  font-family: "HelveticaNeue";
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px !important;
+  color: #fff;
+  font-family: "HelveticaNeue";
+}
+
+code {
+  font-family: "HelveticaNeue";
+}

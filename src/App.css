@@ -1,0 +1,38 @@
+body {
+  font-family: Helvetica, Sans-Serif;
+}
+:root {
+  --text-white: #ffffff;
+  --text-black: #000000;
+  --theme-primary: #422a8c;
+  --theme-purple: #0a194e;
+}
+.form-control {
+  border: 1px solid #949494;
+  font-size: 13px;
+  height: 31px;
+}
+.fs {
+  font-size: 12px;
+}
+.theme-primary {
+  color: var(--theme-primary);
+}
+.theme-purple {
+  color: var(--theme-purple);
+}
+.fw-600 {
+  font-weight: 600;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.btn:first-child:hover,
+:not(.btn-check) + .btn:hover {
+  color: #fff;
+  background: #312a93;
+  border-color: #312a93;
+}

@@ -1,0 +1,10 @@
+@import "./variables";
+
+button {
+    // background: $global-zn-primary;       //not using root
+    background: var(--global-zn-primary); //using root
+    border-radius: var(--global-border-radius-xl);
+    color: var(--global-zn-white);
+    border: 1px solid var(--global-zn-white);
+    padding: 4px 20px;
+}
